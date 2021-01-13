@@ -1,0 +1,20 @@
+{
+  "native": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-homewod-native-120331-authRole",
+      "UnauthRoleArn": "arn:aws:iam::504281612321:role/amplify-homewod-native-120331-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::504281612321:role/amplify-homewod-native-120331-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-homewod-native-120331-deployment",
+      "UnauthRoleName": "amplify-homewod-native-120331-unauthRole",
+      "StackName": "amplify-homewod-native-120331",
+      "StackId": "arn:aws:cloudformation:us-west-2:504281612321:stack/amplify-homewod-native-120331/6a41c9e0-55da-11eb-b1be-02c0b9020c29",
+      "AmplifyAppId": "d3aazhsstxvdcq"
+    },
+    "categories": {
+      "auth": {
+        "homewod88118968": {}
+      }
+    }
+  }
+}

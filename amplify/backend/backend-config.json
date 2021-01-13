@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "homewod88118968": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
